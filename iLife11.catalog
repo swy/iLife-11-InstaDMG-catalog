@@ -1,0 +1,37 @@
+# All iLife 11 packages, in order
+# updated SHA1 values, instructions from https://raw.github.com/gist/1791580
+# To use, do the following:
+#  Mount iLife DVD
+#  right click on install iLife, choose 'show original'
+#   copy all pkgs into your instadmg/InstallerFiles/InstaUp2DatePackages folder EXCEPT for:
+#       -AppleIntermediateCodec
+#       -iLifeAudioAnalysis
+#       -iLifeRegistrationPost
+#       -iMovie_PreviousFolder
+#       -ProAppRuntimeFlat
+#       -RAWCameraUpdate3#  
+
+## All installations require the following 2 packages
+	iLifeRegistration	iLifeRegistration.pkg	sha1:4c71486fd10871ec0ede02977e308876bc07df79
+	iLifeCookie	iLifeCookie.pkg	sha1:69877ef6076abbe5e82dff3bf029c5e78b0a2734
+## Comment out any of the below products if not needed
+## iPhoto
+	iLifeSlideshow_v2	iLifeSlideshow_v2.pkg	sha1:88a3fff3950bb1fb4fa29db65e0308140b102846
+	iLifeFaceRecognition	iLifeFaceRecognition.pkg	sha1:a286bcd32eb46947ca4c2c93a48647bbcf434163
+	iPhoto	iPhoto.pkg	sha1:59116cf1721c5351be96bb628468c1a4a3aaed8e
+	iPhotoContent	iPhotoContent.pkg	sha1:b58a44f30227bad2c66364182079d4a669862db8
+	iPhotoLibraryUpgradeTool	iPhotoLibraryUpgradeTool.pkg	sha1:b523e38ef1448c680f3c28959611b4a10f0761b0
+## iMovie
+	iMovie	iMovie.pkg	sha1:71aed51be541e0cbff133ec7d76aaef4fad7340b
+## iDVD
+	iDVD	iDVD.pkg	sha1:96af5607c33588b9127ac9d0d15612760118129b
+## Garageband
+	GarageBand	GarageBand.pkg	sha1:ec2eeff95baa332164c1aad986e31f5f7a95db7c
+	GarageBand_Instruments	GarageBand_Instruments.pkg	sha1:d6946839006a30552e33cc45bd2ad2e4e434e561
+	GarageBandFactoryContent	GarageBandFactoryContent.pkg	sha1:46e7479c0e253e984f0246aaf96bf419a6684bde
+	GarageBand_LTPContent	GarageBand_LTPContent.pkg	sha1:866ccf75a1b245246ee282e5c6aabcef41cbe8d4
+	GarageBand_Loops	GarageBand_Loops.pkg	sha1:ddd0e297660e4449a172f16706972789252eb7ae
+	GarageBand_MagicContent	GarageBand_MagicContent.pkg	sha1:b0dcd2b1563f8119d1b4742a1593623171e8cc90
+	iLifeSoundEffects_Loops	iLifeSoundEffects_Loops.pkg	sha1:8a9bd4efb059b0b4291cc8bf31104601aea3220d
+## iWeb
+	iWeb	iWeb.pkg	sha1:87410ce627796f795c88f6e27e4054ad2ad0a05f
